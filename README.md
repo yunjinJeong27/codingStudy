@@ -1,1 +1,1 @@
-# codingStudy
+# codingStudy_Daily
